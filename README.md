@@ -1,8 +1,8 @@
 # Disease-prediction
 Leveraging Machine Learning tools to predict various health conditions
 
-Support Vector Machine (SVM) for Diabetes Prediction and Parkinson's Detection
-This repository contains a machine learning project that focuses on utilizing Support Vector Machine (SVM) models for two different purposes: diabetes prediction and Parkinson's disease detection. The project demonstrates the implementation of SVM models in Python, utilizing popular libraries such as scikit-learn for SVM model training and evaluation.
+Support Vector Machine (SVM) for Diabetes Prediction and Parkinson's Detection:
+This repository contains machine learning project that focuses on utilizing Support Vector Machine (SVM) models for two different purposes: diabetes prediction and Parkinson's disease detection. The project demonstrates the implementation of SVM models in Python, utilizing popular libraries such as scikit-learn for SVM model training and evaluation.
 
 
 Project Overview
